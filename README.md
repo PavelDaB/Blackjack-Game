@@ -7,7 +7,6 @@ A simple command-line **Blackjack** game built using Python. This game allows pl
 - [Features](#features)
 - [Rules](#rules)
 - [Installation](#installation)
-- [Sample Gameplay](#sample-gameplay)
 
 ## How to Play
 1. The game starts by dealing **two cards** each to the player and the dealer.

@@ -35,5 +35,5 @@ A simple command-line **Blackjack** game built using Python. This game allows pl
 1. Make sure Python is installed on your machine. You can download it [here](https://www.python.org/downloads/).
 2. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/PavelDaB/blackjack-game.git
-   cd blackjack-game
+   git clone https://github.com/PavelDaB/Blackjack-Game.git
+   cd Blackjack-Game
